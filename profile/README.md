@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/GL.png" alt="Graduation Labs" width="160" />
+  <img src="../img/GL.png" alt="Graduation Labs" width="100%" style="max-width: 800px;">
 </p>
 
 A gap persists between research, technology, and their practical application.
